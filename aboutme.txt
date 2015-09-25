@@ -3,3 +3,5 @@ bla bla bla...
 hello adding something and test
 
 newmodule branch addes another line
+
+newmodule branch do somthing more, fourth commit, push
