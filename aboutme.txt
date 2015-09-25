@@ -1,7 +1,3 @@
-bla bla bla...  
+readme
 
-hello adding something and test
 
-newmodule branch addes another line
-
-newmodule branch do somthing more, fourth commit, push
